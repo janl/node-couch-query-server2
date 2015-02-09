@@ -1,0 +1,16 @@
+{
+  "name": "node-couch-query-server2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ndjson": "^1.3.0",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Lehnardt <jan@apache.org>",
+  "license": "Apache 2 License"
+}
